@@ -1,0 +1,6 @@
+﻿block_number,trial_n,jitter,trial_duration,duration_error,condition,arrow.type,trial.type,arrow_type,trial_type,
+1,1,8.0,7.933007899991935,-0.06699210000806488,1.0,right_arrow,regular,,,
+,2,15,14.797494500002358,-0.2025054999976419,0.0,,,left_arrow,break,
+,3,8.0,7.7226039999804925,-0.2773960000195075,0.0,left_arrow,regular,,,
+,4,15,14.780016400007298,-0.21998359999270178,1.0,,,right_arrow,break,
+,,,,,,,,,,
